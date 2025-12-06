@@ -28,7 +28,7 @@ venv\Scripts\activate       # Trên Windows
 
 ### 2️⃣ Cài thư viện cần thiết
 ```bash
-pip install streamlit transformers underthesea torch sqlite3
+pip install torch transformers underthesea streamlit
 ```
 
 ---
@@ -69,5 +69,6 @@ Lịch sử được lưu tự động mỗi khi bạn phân loại cảm xúc.
 - Ứng dụng chạy ổn định, không crash.
 
 ---
+
 
 
